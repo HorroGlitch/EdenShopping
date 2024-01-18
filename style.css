@@ -1,0 +1,14 @@
+article{
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 20vw;
+  align-items: center;
+  flex-direction: column;
+  border-color: black;
+  border: solid 5px;
+}
+
+img{
+  width: 25%;
+}
